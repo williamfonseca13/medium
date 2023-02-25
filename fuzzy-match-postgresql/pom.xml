@@ -19,7 +19,7 @@
 		<java.version>11</java.version>
 		<org.mapstruct.version>1.4.2.Final</org.mapstruct.version>
 		<maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
-		<org.projectlombok.version>1.18.22</org.projectlombok.version>
+		<org.projectlombok.version>1.18.26</org.projectlombok.version>
 		<postgresql.version>42.3.3</postgresql.version>
 	</properties>
 
